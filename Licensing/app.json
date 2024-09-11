@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "78af440f-c5c6-45dd-851d-676a79ef235c",
+      "name": "Common",
+      "publisher": "Andershaffjensen",
+      "version": "1.0.0.0"
+    }    
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
